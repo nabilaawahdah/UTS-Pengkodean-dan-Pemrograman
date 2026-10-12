@@ -1,1 +1,1 @@
-Folder ini berisi kode jawaban untuk soal pengkodean dan pemrograman akuntansi. File kode akan ditambahkan setelah akses tulis repositori tersedia.
+Dokumentasi lengkap dan daftar seluruh kode tersedia di README.md pada folder ini.
