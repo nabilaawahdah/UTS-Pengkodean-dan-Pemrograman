@@ -1,1 +1,0 @@
-Dokumentasi lengkap dan daftar seluruh kode tersedia di README.md pada folder ini.
